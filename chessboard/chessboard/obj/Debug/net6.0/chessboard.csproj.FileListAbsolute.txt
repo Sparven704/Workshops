@@ -1,0 +1,15 @@
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\bin\Debug\net6.0\chessboard.exe
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\bin\Debug\net6.0\chessboard.deps.json
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\bin\Debug\net6.0\chessboard.runtimeconfig.json
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\bin\Debug\net6.0\chessboard.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\bin\Debug\net6.0\chessboard.pdb
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\obj\Debug\net6.0\chessboard.csproj.AssemblyReference.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\obj\Debug\net6.0\chessboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\obj\Debug\net6.0\chessboard.AssemblyInfoInputs.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\obj\Debug\net6.0\chessboard.AssemblyInfo.cs
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\obj\Debug\net6.0\chessboard.csproj.CoreCompileInputs.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\obj\Debug\net6.0\chessboard.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\obj\Debug\net6.0\refint\chessboard.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\obj\Debug\net6.0\chessboard.pdb
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\obj\Debug\net6.0\chessboard.genruntimeconfig.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\chessboard\chessboard\obj\Debug\net6.0\ref\chessboard.dll

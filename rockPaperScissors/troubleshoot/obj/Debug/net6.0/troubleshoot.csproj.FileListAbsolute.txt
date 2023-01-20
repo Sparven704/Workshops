@@ -1,0 +1,15 @@
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\bin\Debug\net6.0\troubleshoot.exe
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\bin\Debug\net6.0\troubleshoot.deps.json
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\bin\Debug\net6.0\troubleshoot.runtimeconfig.json
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\bin\Debug\net6.0\troubleshoot.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\bin\Debug\net6.0\troubleshoot.pdb
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\obj\Debug\net6.0\troubleshoot.csproj.AssemblyReference.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\obj\Debug\net6.0\troubleshoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\obj\Debug\net6.0\troubleshoot.AssemblyInfoInputs.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\obj\Debug\net6.0\troubleshoot.AssemblyInfo.cs
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\obj\Debug\net6.0\troubleshoot.csproj.CoreCompileInputs.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\obj\Debug\net6.0\troubleshoot.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\obj\Debug\net6.0\refint\troubleshoot.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\obj\Debug\net6.0\troubleshoot.pdb
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\obj\Debug\net6.0\troubleshoot.genruntimeconfig.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\troubleshoot\troubleshoot\obj\Debug\net6.0\ref\troubleshoot.dll

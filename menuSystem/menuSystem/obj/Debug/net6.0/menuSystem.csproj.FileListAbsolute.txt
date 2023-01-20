@@ -1,0 +1,15 @@
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\bin\Debug\net6.0\menuSystem.exe
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\bin\Debug\net6.0\menuSystem.deps.json
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\bin\Debug\net6.0\menuSystem.runtimeconfig.json
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\bin\Debug\net6.0\menuSystem.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\bin\Debug\net6.0\menuSystem.pdb
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\obj\Debug\net6.0\menuSystem.csproj.AssemblyReference.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\obj\Debug\net6.0\menuSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\obj\Debug\net6.0\menuSystem.AssemblyInfoInputs.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\obj\Debug\net6.0\menuSystem.AssemblyInfo.cs
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\obj\Debug\net6.0\menuSystem.csproj.CoreCompileInputs.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\obj\Debug\net6.0\menuSystem.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\obj\Debug\net6.0\refint\menuSystem.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\obj\Debug\net6.0\menuSystem.pdb
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\obj\Debug\net6.0\menuSystem.genruntimeconfig.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\menuSystem\menuSystem\obj\Debug\net6.0\ref\menuSystem.dll

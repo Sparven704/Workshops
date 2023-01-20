@@ -1,0 +1,15 @@
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\bin\Debug\net6.0\OOPClass.exe
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\bin\Debug\net6.0\OOPClass.deps.json
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\bin\Debug\net6.0\OOPClass.runtimeconfig.json
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\bin\Debug\net6.0\OOPClass.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\bin\Debug\net6.0\OOPClass.pdb
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.csproj.AssemblyReference.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.AssemblyInfoInputs.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.AssemblyInfo.cs
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.csproj.CoreCompileInputs.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\obj\Debug\net6.0\refint\OOPClass.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.pdb
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\obj\Debug\net6.0\OOPClass.genruntimeconfig.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPClass\OOPClass\obj\Debug\net6.0\ref\OOPClass.dll

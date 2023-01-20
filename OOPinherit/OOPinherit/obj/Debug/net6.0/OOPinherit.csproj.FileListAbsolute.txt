@@ -1,0 +1,15 @@
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\bin\Debug\net6.0\OOPinherit.exe
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\bin\Debug\net6.0\OOPinherit.deps.json
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\bin\Debug\net6.0\OOPinherit.runtimeconfig.json
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\bin\Debug\net6.0\OOPinherit.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\bin\Debug\net6.0\OOPinherit.pdb
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\obj\Debug\net6.0\OOPinherit.csproj.AssemblyReference.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\obj\Debug\net6.0\OOPinherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\obj\Debug\net6.0\OOPinherit.AssemblyInfoInputs.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\obj\Debug\net6.0\OOPinherit.AssemblyInfo.cs
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\obj\Debug\net6.0\OOPinherit.csproj.CoreCompileInputs.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\obj\Debug\net6.0\OOPinherit.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\obj\Debug\net6.0\refint\OOPinherit.dll
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\obj\Debug\net6.0\OOPinherit.pdb
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\obj\Debug\net6.0\OOPinherit.genruntimeconfig.cache
+C:\Users\Arvid\OneDrive\yh-projects\C#\OOPinherit\OOPinherit\obj\Debug\net6.0\ref\OOPinherit.dll
